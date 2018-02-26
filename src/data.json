@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/dog1.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/dog2.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/dog3.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/dog4.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/dog5.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/dog7.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/dog8.jpeg",
+      "clicked": false
+    }
+  ]
+  
